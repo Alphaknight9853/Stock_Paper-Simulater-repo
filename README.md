@@ -1,2 +1,12 @@
-# Stock_Paper-Simulater-repo
-his Python app fetches and displays stock price information for selected companies. The project was built to learn Python basics, working with data, and building small applications. For educational purposes only.
+Python Stock Tracker
+
+This project shows stock prices using Python.
+
+What it does:
+- Gets stock price for a symbol
+- Shows daily change
+
+This project is for learning only.
+Not financial advice.
+
+Made by: Vidvan, Age 11
